@@ -25,4 +25,4 @@ Best Regards
  
  -Lynette45
 
-<!--- lynette45/lynette45 is a ✨ special ✨ repository because its `README.md` --->
+<!--- lynette45/Try Tosca is a ✨ special ✨ repository because its `README.md` --->
