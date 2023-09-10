@@ -4,6 +4,8 @@ Saat ini saya berusia 23 tahun, lulusan dari SMk Ma'arif 2 Gombong. Jurusan Tekn
 Saat ini merantau kembali dengan sedikit modal skill dari beberapa perusahaan. 
 
 Kemampuan Skill di bidang manufactur : 
+
+
  • Mesin CNC ( Computer Numerical Control ) Tipe Fanuc & Brother. 
 
  
