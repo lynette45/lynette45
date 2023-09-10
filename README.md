@@ -1,6 +1,5 @@
 Hallo Sahabat Github,
-Saat ini saya berusia 23 tahun, 
-lulusan dari SMk Ma'arif 2 Gombong. Jurusan Teknik Kendaraan Ringan.
+Saat ini saya berusia 23 tahun, lulusan dari SMk Ma'arif 2 Gombong. Jurusan Teknik Kendaraan Ringan.
 
 Saat ini merantau kembali dengan sedikit modal skill dari beberapa perusahaan. 
 
