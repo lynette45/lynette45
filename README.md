@@ -1,27 +1,10 @@
 Hallo Sahabat Github,
 Saat ini saya berusia 23 tahun, lulusan dari SMk Ma'arif 2 Gombong. Jurusan Teknik Kendaraan Ringan.
 
-Saat ini merantau kembali dengan sedikit modal skill dari beberapa perusahaan. 
-
-Kemampuan Skill di bidang manufactur : 
-
-
- • Mesin CNC ( Computer Numerical Control ) Tipe Fanuc & Brother. 
-
- 
- • Mesin Slitter baja - Setting Uncoiler, Setting Cutter dan Recoiler.
-
- 
- • Painting Manual - Spray Gun ( Melakukan Painting Warna )
-
- 
- • Operator Crane - Minimal 3 ton - Maximal 15 ton
-
- 
-Sedang Mendalami Skill di bidang IT :
-
-
  • Front End Development
+
+
+ • Back End Development
 
  
  • Programming language : PHP, Java Script, dan Phyton
@@ -35,6 +18,8 @@ Sedang Mendalami Skill di bidang IT :
  
 contact me :
 
+ • WhatsApps : https://wa.me/62892087030
+
 
  • Website   : https://metakerja.com/
 
@@ -44,12 +29,6 @@ contact me :
  
  • Youtube   : https://www.youtube.com/channel/UCkwppLm5e2GKdXTYvyqnuyg
 
- 
-Saya sangat antusias dengan belajar Skill baru ataupun mendalami kembali Skill lama.
-
-
-
-Saat ini saya dalam keadaaan sehat dan sudah melakukan Vaksin ke-3/booster
 
 
 
