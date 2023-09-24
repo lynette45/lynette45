@@ -22,7 +22,7 @@ contact me :
  • Website   : https://metakerja.com/
 
 
- • WhatsApps : https://wa.me/+62892087030/
+ • WhatsApps : https://wa.me/62892087030
 
  
  • LinkedIn  : https://www.linkedin.com/in/wahyudi-tri-pamungkas/
