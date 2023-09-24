@@ -18,10 +18,11 @@ Saat ini saya berusia 23 tahun, lulusan dari SMk Ma'arif 2 Gombong. Jurusan Tekn
  
 contact me :
 
- • WhatsApps : https://wa.me/62892087030
-
 
  • Website   : https://metakerja.com/
+
+
+ • WhatsApps : https://wa.me/62892087030
 
  
  • LinkedIn  : https://www.linkedin.com/in/wahyudi-tri-pamungkas/
