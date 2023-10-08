@@ -24,6 +24,9 @@ contact me :
 
  • WhatsApps : https://wa.me/6281392087030
 
+
+ • Discord : https://discord.gg/c4g63vKu
+
  
  • LinkedIn  : https://www.linkedin.com/in/wahyudi-tri-pamungkas/
 
